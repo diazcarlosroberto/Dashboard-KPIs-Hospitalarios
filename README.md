@@ -1,3 +1,16 @@
+# Hospital KPI Dashboard 🏥
+
+## Description
+Simulation and analysis of operational KPIs of a Mexican general hospital 
+with 10,000 synthetically generated patient records. The objective is to 
+demonstrate how data analysis can support clinical and administrative 
+decision-making in healthcare institutions.
+
+## KPIs Analyzed
+- **Bed occupancy** by area (ICU, Emergency Department, General Hospitalization)
+- **Average length of stay** by diagnosis
+- **30-day readmission rate** by diagnosis
+
 # Dashboard de KPIs Hospitalarios 🏥
 
 ## Descripción

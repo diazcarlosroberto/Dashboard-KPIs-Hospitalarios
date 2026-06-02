@@ -1,0 +1,8 @@
+diagnostico,readmision_diagnostico,total_pacientes,promedio_readmision
+Infarto,241.0,1436,16.8
+Diabetes,235.0,1499,15.7
+Hipertensión,213.0,1433,14.9
+Apendicitis,204.0,1374,14.8
+Neumonía,209.0,1417,14.7
+Fractura,203.0,1433,14.2
+EPOC,190.0,1408,13.5
